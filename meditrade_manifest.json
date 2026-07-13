@@ -1,0 +1,32 @@
+{
+  "name": "MediTrade — Lucknow Traders",
+  "short_name": "MediTrade",
+  "description": "Lucknow Pharma Trader Directory — 3208 traders with search, visit tracking and notes",
+  "start_url": "./meditrade.html",
+  "display": "standalone",
+  "background_color": "#0a0f1e",
+  "theme_color": "#0a0f1e",
+  "orientation": "portrait-primary",
+  "scope": "./",
+  "categories": ["medical", "business", "productivity"],
+  "icons": [
+    {
+      "src": "./MediTrade_Icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./MediTrade_Icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./MediTrade_Icon_1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
