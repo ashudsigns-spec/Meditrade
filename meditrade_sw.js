@@ -1,4 +1,4 @@
-const CACHE = "meditrade-v3";
+const CACHE = "meditrade-v4";
 const ASSETS = [
   "/Meditrade/index.html",
   "/Meditrade/meditrade_manifest.json",
